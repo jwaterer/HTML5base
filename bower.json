@@ -1,0 +1,21 @@
+{
+  "name": "Build Base - HMTL5 Boilerplate",
+  "version": "1.0.1","breadcrumbdigital.com.au",
+  "authors": [
+    "Jake Waterer <jake.w@breadcrumbdigital.com.au>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets/vendor"
+  ],
+  "dependencies": {
+    "modernizr": "2.8.2",
+    "jquery": "1.11.1",
+    "bootstrap": "3.3.0",
+    "respond": "1.4.2",
+    "grunt-contrib-copy": "^0.7.0"
+  }
+}
