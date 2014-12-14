@@ -1,6 +1,7 @@
 {
   "name": "Build Base - HMTL5 Boilerplate",
-  "version": "1.0.1","breadcrumbdigital.com.au",
+  "version": "1.0.1",
+  "homepage": "breadcrumbdigital.com.au",
   "authors": [
     "Jake Waterer <jake.w@breadcrumbdigital.com.au>"
   ],
